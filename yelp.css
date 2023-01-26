@@ -1,0 +1,23 @@
+
+.reviews {
+  display: flex;
+  justify-content: space-around;
+  padding: 10%;
+}
+
+.yelp-review {
+    display: list-item;
+    flex-direction: row;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+    height: 20px;
+}
+
+.message {
+  align-items: center;
+  justify-items: center;
+  display:block;
+  margin: 10px;
+  font-size: 25px;
+}

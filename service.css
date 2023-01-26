@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.types {
+    background-color: #eaeaea;
+    color: black;
+    border-radius: 10px;
+    border: 12px solid transparent;
+    padding: 0px;
+    outline: none;
+    margin: 90px;
+    width: 300px;
+    float: left;
+    font-size: 25px;
+}   
+
+.img1 {
+    margin: 90px;
+} 
